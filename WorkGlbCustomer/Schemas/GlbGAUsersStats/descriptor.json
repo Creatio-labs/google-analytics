@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f6dbb7a2-70ec-4969-bde5-6a693910f376",
+    "Name": "GlbGAUsersStats",
+    "ModifiedOnUtc": "\/Date(1569228303000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Статус контрагента",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "716866d9-0d2c-49c1-8a15-7bdac4805e41",
+    "Name": "GlbGAPageStats",
+    "ModifiedOnUtc": "\/Date(1569228692000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Базовый объект",
+    "DependsOn": []
+  }
+}

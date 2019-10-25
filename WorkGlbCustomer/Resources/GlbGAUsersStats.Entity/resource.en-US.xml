@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Users statistics from Google analytics" />
+			<Item Name="Columns.GlbActiveUsersAmount.Caption" Value="Active users amount" />
+			<Item Name="Columns.GlbDate.Caption" Value="Date" />
+			<Item Name="Columns.GlbSite.Caption" Value="Site domain" />
+		</Items>
+	</Group>
+</Resources>
