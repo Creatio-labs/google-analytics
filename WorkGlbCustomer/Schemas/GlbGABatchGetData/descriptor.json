@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b6f224b4-9983-46c9-9fd5-402aa89738e6",
+    "Name": "GlbGABatchGetData",
+    "ModifiedOnUtc": "\/Date(1569418765000)\/",
+    "ManagerName": "ProcessUserTaskSchemaManager",
+    "Caption": "Get data from google analytics",
+    "DependsOn": []
+  }
+}
